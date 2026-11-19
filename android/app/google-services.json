@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "693621716640",
+    "firebase_url": "https://laboratory-safety-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laboratory-safety-system",
+    "storage_bucket": "laboratory-safety-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693621716640:android:f7d913ff4eeed552933bc5",
+        "android_client_info": {
+          "package_name": "com.example.laboratory_safety_monitoring_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkTbL_Zid655Wf0CtXwvtoVuU0Kv5BC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693621716640:android:b0018e005d773ba1933bc5",
+        "android_client_info": {
+          "package_name": "com.example.laboratory_safety_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkTbL_Zid655Wf0CtXwvtoVuU0Kv5BC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
